@@ -1,0 +1,5 @@
+AUGUST -23
+
+npm init -y
+
+npm i express nodemon morgan mongoose jsonwebtoken bcrypt nanoid cors email-validator slugify node-geocoder
